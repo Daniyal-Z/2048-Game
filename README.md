@@ -98,25 +98,32 @@ Programming Tools: The programming tools which are to be used in the project cod
 - SFML Library (audio and graphics)
 ## Screenshots
 Head over to the dropdown at Code and download the ZIP file.
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/c8e348c3-c8bf-4a18-aa3e-782c1e601aa9)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/16bef101-acd1-418c-befe-bf2df7cb0325)
+
 
 Now save the file at your desired location.
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/e791aa8d-3729-4072-b5ed-192bd5e250fe)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/0c789be1-0432-427a-ba1e-d83957ae27be)
+
 
 Extract the files from the zipped folder.
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/866e7f9d-4695-4b8e-bf59-827ee1624edc)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/c1f4df19-f8a7-41f3-b089-d1c19336211a)
 
-Open the unzipped folder.
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/c1090ab5-55e4-48f6-876d-7e29675719c7)
+
+Open the unzipped folder and extract the main file.
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/cc9d79d5-1a83-4be2-8b76-955ddec62593)
+
 
 Search for the "2048.exe" file and run it.
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/364cc44d-2f5e-4027-a562-1da46aedc68f)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/844db4a3-a089-449f-a0da-289d8d6e0062)
+
 
 Main Screen:
-![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/7a113ce4-11f1-4af0-b49c-9e1858a4a1c1)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/fd24a660-4cc4-41e6-bb9f-5ee5009be003)
+
 
 After pressing P:
-![WhatsApp Image 2023-12-13 at 8 00 13 PM](https://github.com/Daniyal-Z/2048-Game/assets/62768256/555527ad-8f44-404b-969d-d0beec5229d7)
+![image](https://github.com/Daniyal-Z/2048-Game/assets/62768256/2d5596a5-d22b-4aa7-b3af-0930f84e420c)
+
 
 
 
